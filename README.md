@@ -1,6 +1,22 @@
 f3_codeigniter_farmers
 ======================
 
+Features
+======================
+
+ -Add Farmer (Name, County)
+ -Add Stock (Name, Owner)
+ 
+ -View stock of each farmer
+ 
+ -Add todays production for the stock
+ 
+ -Top ranking cows by weekly output
+ -Top ranking farmers by combined weekly output
+ -Top ranking farmers by average daily milk production
+ 
+
+
 
 		
 Side notes
