@@ -1,6 +1,10 @@
 f3_codeigniter_farmers
 ======================
 
+Using CodeIgniter 2.1.4 (included in the repo)
+
+database.php sensitive values removed.
+
 Features
 ======================
 
