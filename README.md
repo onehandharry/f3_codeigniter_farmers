@@ -1,39 +1,25 @@
 f3_codeigniter_farmers
 ======================
 
-Mess around with codeIgniter
+
+		
+Side notes
+-CSRF added for the Ajax query but feature turned off globally
+-Pagination total rows return is hard coded - needs value from row count 
 
 
-	<h1>Notes</h1>
+To Do
+-Ideally create a function to generate meta tags / title etc
+-Modify the stock production page to include back dating / editing		
+-Removing stock from farmers	
 
+-Create a UID for the day+farmer+cow_id to ensure once a entry for the day is added it cannot be duplicated
+(add a where date(today) is not null)
 
-	<h2> Page Specifics </h2>
-	
-		<b>Listings</b><br />
-		<p>Pagination total rows return is hard coded - needs value from row count </p>	
-	
-		<b>farmers/production</b><br />
-		<p>Create a UID for the day+farmer+cow_id to ensure once a entry for the day is added it cannot be duplicated </p>
 		
 		
+Credits 
 		
-		
-		
-		
-	
-		<h2> Side notes </h2>
-		<ul>
-		<li>CSRF added for the Ajax query but feature turned off globally</li>
-		<li>Ideally create a function to generate meta tags / title etc</li>
-		<li>Modify the stock production page to include back dating / editing </li>		
-		<li>Removing stock from farmers </li>				
-		</ul>
-		
-		
-		<h2> Credits </h2>
-		
-		<ul>
-		<li>Dummy data from - http://www.generatedata.com/ </li>
-		<li> Pagination - http://tutsforweb.blogspot.co.uk/2012/02/codeigniter-pagination.html</li>		
-		
-		</ul>
+Dummy data from - http://www.generatedata.com/ 
+Pagination - http://tutsforweb.blogspot.co.uk/2012/02/codeigniter-pagination.html	
+
